@@ -1,0 +1,9 @@
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+title: My Website
+description: Just a website
+
+# Plugins
+plugins:
+- jekyll-remote-theme
