@@ -1,9 +1,10 @@
-# Theme
-remote_theme: pages-themes/minimal@v0.2.0
-
+# Info
 title: My Website
-description: Just a website
+description: This will include AI, LLM fine tuning, programming, math, statisics, etc.
+theme: just-the-docs
+
+url: https://avcode-exe.github.io/
 
 # Plugins
 plugins:
-- jekyll-remote-theme
+  - jekyll-default-layout
