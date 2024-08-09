@@ -1,7 +1,7 @@
 # Info
 title: My Website
 description: This will include AI, LLM fine tuning, programming, math, statisics, etc.
-theme: just-the-docs
+theme: jekyll-theme-minimal
 
 url: https://avcode-exe.github.io/
 
